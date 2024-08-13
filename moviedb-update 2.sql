@@ -147,6 +147,17 @@ VALUES
        ('Parasite', 'Bong Joon Ho', 2019, 8.6, 'Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.', '2024-06-28', 'released', 0, 1),
        ('La La Land', 'Damien Chazelle', 2016, 8.0, 'While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.', '2024-06-29', 'released', 0, 1),
        ('Whiplash', 'Damien Chazelle', 2014, 8.5, 'A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student\'s potential.', '2024-06-30', 'released', 0, 1);
+       ('The Social Network', 'David Fincher', 2010, 7.7, 'The story of how Facebook was founded and the lawsuits that followed.', '2024-07-01', 'released', 0, 1),
+       ('Django Unchained', 'Quentin Tarantino', 2012, 8.4, 'With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.', '2024-07-02', 'released', 0, 1),
+       ('Guardians of the Galaxy', 'James Gunn', 2014, 8.0, 'A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.', '2024-07-03', 'released', 0, 1),
+       ('The Revenant', 'Alejandro G. Iñárritu', 2015, 8.0, 'A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.', '2024-07-04', 'released', 0, 1),
+       ('The Wolf of Wall Street', 'Martin Scorsese', 2013, 8.2, 'Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption, and the federal government.', '2024-07-05', 'released', 0, 1),
+       ('The Avengers', 'Joss Whedon', 2012, 8.0, 'Earth\'s mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.', '2024-07-06', 'released', 0, 1),
+       ('Inglourious Basterds', 'Quentin Tarantino', 2009, 8.3, 'In Nazi-occupied France, a group of Jewish U.S. soldiers plot to assassinate Nazi leaders while a theatre owner seeks revenge on the same.', '2024-07-07', 'released', 0, 1),
+       ('The Dark Knight', 'Christopher Nolan', 2008, 9.0, 'When the menace known as The Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.', '2024-07-08', 'released', 0, 1),
+       ('Forrest Gump', 'Robert Zemeckis', 1994, 8.8, 'The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal and other historical events unfold from the perspective of an Alabama man with an IQ of 75.', '2024-07-09', 'released', 0, 1),
+       ('Fight Club', 'David Fincher', 1999, 8.8, 'An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into something much, much more.', '2024-07-10', 'released', 0, 1),
+
 
 -- --------------------------------------------------------
 
